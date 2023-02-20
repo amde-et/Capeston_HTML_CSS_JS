@@ -42,13 +42,4 @@ Amdebirhan Abebe
 - HTML, CSS and Javascript Linters
 
 
-## Acknowledgments
-
-- Microverse
-- Original design idea by [Cindy Shin in Behance](https://www.behance.net/adagio07)
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
 
