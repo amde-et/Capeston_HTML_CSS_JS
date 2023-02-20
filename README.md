@@ -34,16 +34,13 @@ To get a local copy up and running follow these simple example steps.
 
 ## Author
 
-👤 **Michael Tamirie**
+Amdebirhan Abebe 
 
-- GitHub: [Michael_Tamirie](https://github.com/Micky373)
-- LinkedIn: [MichalTamirie](https://www.linkedin.com/in/michael-tamirie-288a331ab)
 
 ## Materials required for validation
 
 - HTML, CSS and Javascript Linters
-- follow this link :
-  [link](https://github.com/microverseinc/linters-config/tree/master/html-css)
+
 
 ## Acknowledgments
 
@@ -54,6 +51,4 @@ To get a local copy up and running follow these simple example steps.
 
 Give a ⭐️ if you like this project!
 
-## 📝 License
 
-This project is Microverse licensed.
